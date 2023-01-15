@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# Welcome to the Funbite Github Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [React.js](https://reactjs.org/).
 
-## Available Scripts
+Funbite is a small project of mine that will slowly be built bigger and bigger as I learn more about react.js. It started out as an [IST Assignment in school](https://github.com/Skittlq/ist-assignment2022), at first I thought this was really cool, I made a functional website featuring my own HTML, CSS and Javascript, but after finding react.js, I learnt that the website I made was absolutely horrible, so I got this cool idea of recreating the Funbite website using my new-found knowledge on react.js, and if I move this off of Github Pages, maybe even node.js.
 
-In the project directory, you can run:
+## But why?
 
-### `npm start`
+React.js is just so much faster, there are literally no loading times when going between pages, and the file structure will be so much better for me and you if you want to snoop around the files, improve on that crappy excuse of mobile responsiveness on that old site, and obviously so that I can ~~impress/show-off~~ educate my teacher about this!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Where can I find you?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I got [Twitter](https://twitter.com/Skittlq_), [Twitch](https://twitch.tv/Skittlq) and [YouTube](https://www.youtube.com/Skittlq) not "The Hub" unfortunately.
