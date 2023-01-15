@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/funbite-2023/static/css/main.073c9b0a.css",
-    "main.js": "/funbite-2023/static/js/main.48d842de.js",
-    "static/js/787.f4490240.chunk.js": "/funbite-2023/static/js/787.f4490240.chunk.js",
-    "static/media/logo.svg": "/funbite-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/funbite-2023/static/css/main.e6c13ad2.css",
+    "main.js": "/funbite-2023/static/js/main.7e5bdde1.js",
     "index.html": "/funbite-2023/index.html",
-    "main.073c9b0a.css.map": "/funbite-2023/static/css/main.073c9b0a.css.map",
-    "main.48d842de.js.map": "/funbite-2023/static/js/main.48d842de.js.map",
-    "787.f4490240.chunk.js.map": "/funbite-2023/static/js/787.f4490240.chunk.js.map"
+    "main.e6c13ad2.css.map": "/funbite-2023/static/css/main.e6c13ad2.css.map",
+    "main.7e5bdde1.js.map": "/funbite-2023/static/js/main.7e5bdde1.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.48d842de.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e5bdde1.js"
   ]
 }
