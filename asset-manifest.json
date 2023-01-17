@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/funbite-2023/static/css/main.7ddf4e6c.css",
-    "main.js": "/funbite-2023/static/js/main.2cb1cb02.js",
+    "main.js": "/funbite-2023/static/js/main.857d2e1d.js",
     "static/media/funbite.png": "/funbite-2023/static/media/funbite.6069d539053522b75c14.png",
     "index.html": "/funbite-2023/index.html",
     "main.7ddf4e6c.css.map": "/funbite-2023/static/css/main.7ddf4e6c.css.map",
-    "main.2cb1cb02.js.map": "/funbite-2023/static/js/main.2cb1cb02.js.map"
+    "main.857d2e1d.js.map": "/funbite-2023/static/js/main.857d2e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.7ddf4e6c.css",
-    "static/js/main.2cb1cb02.js"
+    "static/js/main.857d2e1d.js"
   ]
 }
