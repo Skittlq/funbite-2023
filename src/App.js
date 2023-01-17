@@ -18,12 +18,13 @@ function App() {
       <Header/>
       <NavbarMobile/>
       <Navbar/>
+      <Route path="/funbite-2023/"><RedirectHome/></Route>
       <Route path="/"><RedirectHome/></Route>
-      <Route path="/home"><Home/></Route>
-      <Route path="/games"><Games/></Route>
-      <Route path="/video-of-the-day"><VideoOfTheDay/></Route>
-      <Route path="/google-search"><GoogleSearch/></Route>
-      <Route path="/credits"><Credits/></Route>
+      <Route path="/funbite-2023/home"><Home/></Route>
+      <Route path="/funbite-2023/games"><Games/></Route>
+      <Route path="/funbite-2023/video-of-the-day"><VideoOfTheDay/></Route>
+      <Route path="/funbite-2023/google-search"><GoogleSearch/></Route>
+      <Route path="/funbite-2023/credits"><Credits/></Route>
       <Footer/>
     </div>
   );
