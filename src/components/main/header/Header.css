@@ -1,0 +1,16 @@
+.header {
+    background: radial-gradient(#445464,#2c3741 70%);
+    background-color: #374552;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.funbite-logo {
+    width: 50%;
+}
+
+@media screen and (max-width: 850px) {
+    .funbite-logo {
+        width: 100%;
+    }
+}

@@ -1,0 +1,15 @@
+.footer {
+    position: static;
+    margin-top: 70vh;
+    background-color: rgb(44, 55, 65, 1);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px;
+}
+
+@media screen and (max-width: 850px) {
+    .footer {
+        padding: 10px;
+        padding-bottom: 80px;
+    }
+}

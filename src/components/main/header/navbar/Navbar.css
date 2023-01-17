@@ -1,0 +1,72 @@
+
+
+/* NAVBAR */
+.navbar {
+    text-align: center;
+    width: 100%;
+    background: radial-gradient(#374552,#2c3741 50%);
+    overflow: auto;
+    transition-duration: 0.4s;
+}
+
+.navbar a {
+    margin: 10px 10px 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    transition-duration: 0.4s;
+}
+
+.navbar a:hover {
+    background-color: #00000030;
+    width: 11%;
+    transition-duration: 0.4s;
+}
+
+.navbar a.active {
+    background-color: #0073df;
+    transition-duration: 0.4s;
+}
+
+/* MOBILE NAVBAR */
+.navbar-mobile {
+    bottom: 0;
+    position: fixed;
+    display: none;
+    width: 100%;
+    background: radial-gradient(#374552,#2c3741 60%);
+    overflow: auto;
+}
+
+.navbar-mobile a {
+    float: left;
+    text-align: center;
+    width: 20%;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 26px;
+}
+
+.navbar-mobile a:hover {
+    background-color: #00000056;
+}
+
+.navbar-mobile a.active {
+    background-color: #0073df;
+}
+
+/* RESPONSIVENESS */
+@media screen and (max-width: 850px) {
+    .navbar {
+        display: none;
+    }
+    .navbar-mobile {
+        display: block;
+    }
+}
